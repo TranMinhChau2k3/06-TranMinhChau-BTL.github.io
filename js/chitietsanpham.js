@@ -19,7 +19,7 @@ $(document).ready(function () {
       name: 'Nguyễn Khả Minh',
       imgUrl: '../img/img-avatar-3.png',
       textComment:
-        'Sản phẩm rất đẹp phù hợp với nhiều vóc dáng phụ nữ. Mức giá quá rẻ so với chất lượng sản phẩm. Cực kỳ yêu thích mặt hàng này..',
+        'Sản phẩm phù hợp với trẻ em. Mức giá quá rẻ so với chất lượng sản phẩm. Cực kỳ yêu thích mặt hàng này..',
       datePost: '24/03/2024',
     },
   ];
