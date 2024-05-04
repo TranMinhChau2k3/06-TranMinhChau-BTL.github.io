@@ -3,91 +3,91 @@ function taoDanhSachSanPham(option = 'SƯU TẬP TRỨNG') {
     {
       id: 1,
       name: '',
-      imgUrl: '../img/Trung/t_1.0.png',
+      imgUrl: '../img/Trung/T_1.0.png',
       price: 399.0,
     },
     {
       id: 2,
       name: '',
-      imgUrl: '../img/Trung/t_1.2.png',
+      imgUrl: '../img/Trung/T_1.2.png',
       price: 299.0,
     },
     {
       id: 3,
       name: '',
-      imgUrl: '../img/Trung/t_1.4.png',
+      imgUrl: '../img/Trung/T_1.4.png',
       price: 399.0,
     },
     {
       id: 4,
       name: '',
-      imgUrl: '../img/Trung/t_1.6.png',
+      imgUrl: '../img/Trung/T_1.6.png',
       price: 349.0,
     },
     {
       id: 5,
       name: '',
-      imgUrl: '../img/Trung/t_1.8.png',
+      imgUrl: '../img/Trung/T_1.8.png',
       price: 399.0,
     },
     {
       id: 6,
       name: '',
-      imgUrl: '../img/Trung/t_2.0.png',
+      imgUrl: '../img/Trung/T_2.0.png',
       price: 449.0,
     },
     {
       id: 7,
       name: '',
-      imgUrl: '../img/Trung/t_2.2.png',
+      imgUrl: '../img/Trung/T_2.2.png',
       price: 449.0,
     },
     {
       id: 8,
       name: '',
-      imgUrl: '../img/Trung/t_2.4.png',
+      imgUrl: '../img/Trung/T_2.4.png',
       price: 449.0,
     },
     {
       id: 9,
       name: '',
-      imgUrl: '../img/Trung/t_2.6.png',
+      imgUrl: '../img/Trung/T_2.6.png',
       price: 449.0,
     },
     {
       id: 10,
       name: '',
-      imgUrl: '../img/Trung/t_2.8.png',
+      imgUrl: '../img/Trung/T_2.8.png',
       price: 449.0,
     },
     {
       id: 11,
       name: '',
-      imgUrl: '../img/Trung/t_3.0.png',
+      imgUrl: '../img/Trung/T_3.0.png',
       price: 449.0,
     },
     {
       id: 12,
       name: '',
-      imgUrl: '../img/Trung/t_3.2.png',
+      imgUrl: '../img/Trung/T_3.2.png',
       price: 449.0,
     },
     {
       id: 13,
       name: '',
-      imgUrl: '../img/Trung/t_3.4.png',
+      imgUrl: '../img/Trung/T_3.4.png',
       price: 449.0,
     },
     {
       id: 14,
       name: '',
-      imgUrl: '../img/Trung/t_3.6.png',
+      imgUrl: '../img/Trung/T_3.6.png',
       price: 449.0,
     },
     {
       id: 15,
       name: '',
-      imgUrl: '../img/Trung/t_3.8.png',
+      imgUrl: '../img/Trung/T_3.8.png',
       price: 449.0,
     },
   ];
@@ -666,7 +666,7 @@ $('#form-checkbox-2000').click(function () {
       .toggle();
   });
 
-
+  //-------------------------------------------------------------------------------------------------------------------------------
   // $('#form-checkbox-100').click(function () {
   //   $('.product__list .product')
   //     .filter(function () {
