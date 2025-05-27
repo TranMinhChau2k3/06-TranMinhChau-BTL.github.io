@@ -1,3 +1,12 @@
+/* Giao diện cho màn hình nhỏ hơn 768px (điện thoại) */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+  /* Các điều chỉnh khác cho mobile */
+}
+
 *,*:before,*:after {
   box-sizing: border-box;
 }
